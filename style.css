@@ -1,0 +1,55 @@
+body{
+    background-image: url('./795479-download-cool-sunset-backgrounds-2560x1600-photo.jpg');
+    background-size: cover;
+    text-align: center;
+    margin: 0;
+    background-color: beige;
+}
+.menu{
+    position: fixed;
+    width: 100%;
+    background-color: blueviolet;
+    margin-top: 0px;
+}
+.links{
+    display: inline;
+    font-size: 25px;
+    padding: 30px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    text-shadow: 2px 2px 2px red ;
+}
+.links :hover{
+    font-size: 30px;
+    text-decoration: underline;
+}
+html{
+    scroll-behavior: smooth;
+}
+.profile{
+    margin-top: 70px;
+    width: 300px;
+}
+#name{
+    font-family: 'Fasthand', cursive;;
+    font-size: 50px;
+}
+#welcome{
+    background: linear-gradient( to bottom right, red, yellow);
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.contact_1 a{
+    text-shadow: none;
+    color: black;
+}
+.contact_1 h3{
+    display: inline;
+}
